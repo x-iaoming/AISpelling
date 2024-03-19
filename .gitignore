@@ -1,1 +1,4 @@
 *.pb
+/trial1
+/examples
+/data
